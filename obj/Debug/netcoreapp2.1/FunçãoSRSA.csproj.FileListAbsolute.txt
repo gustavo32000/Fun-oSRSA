@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRSA\bin\Debug\netcoreapp2.1\FunçãoSRSA.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRSA\bin\Debug\netcoreapp2.1\FunçãoSRSA.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRSA\bin\Debug\netcoreapp2.1\FunçãoSRSA.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRSA\bin\Debug\netcoreapp2.1\FunçãoSRSA.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRSA\bin\Debug\netcoreapp2.1\FunçãoSRSA.pdb
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRSA\obj\Debug\netcoreapp2.1\FunçãoSRSA.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRSA\obj\Debug\netcoreapp2.1\FunçãoSRSA.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRSA\obj\Debug\netcoreapp2.1\FunçãoSRSA.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRSA\obj\Debug\netcoreapp2.1\FunçãoSRSA.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRSA\obj\Debug\netcoreapp2.1\FunçãoSRSA.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRSA\obj\Debug\netcoreapp2.1\FunçãoSRSA.pdb
